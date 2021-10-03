@@ -14,7 +14,7 @@
 
 ---
 
-## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="30" width="25"/>My Simple Task Manager_V2.1.0
+## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="30" width="25"/>My Simple Task Manager_V2.2.0
 
 is a drag-and-drop task manager as well as a time tracker (not for a team, but for a single freelance developer for example)!
 
@@ -324,6 +324,18 @@ You can easily install this application on a Windows, Mac or Linux computer.
 >And this is a result:
 
 <img  style =" margin-top: 5px; margin-right: 22px " src="demo/version2/reduced.png" alt="drawing" height="2250" width="400"/>
+
+
+---
+
+
+### New Version (03 oct 2021 - ^V_2.2.0)
+
+**:heavy_exclamation_mark: Dynamic real time Dollars/Euros exchange rate added! :dollar: / :euro:**
+
+>The conversion of the Daily rate from Dollars to Euros is now done automatically according to the official exchange rate.
+
+
 ---
 
 
@@ -357,7 +369,6 @@ You can easily install this application on a Windows, Mac or Linux computer.
 **:x:** this application is  not responsive on mobile :mobile_phone_off: (as it is an application for people working in front of a computer - developer like me for example - I did not find useful to do media queries for that).
 
 ![alt text](demo/version2/mobileView.png "My Simple Tasks Manager")
-
 
 ***(The demo is fully functional, all infos are stocked in localStorage)***
 
