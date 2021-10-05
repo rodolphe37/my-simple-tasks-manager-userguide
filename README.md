@@ -335,6 +335,15 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >The conversion of the Daily rate from Dollars to Euros is now done automatically according to the official exchange rate.
 
+---
+
+### New Version (05 oct 2021 - ^V_2.2.1)
+
+**:heavy_exclamation_mark: A currency converter has just been added.**
+
+>You can convert almost any currency, simply and quickly, with this widget.
+
+![alt text](demo/version2/currencyConverter.gif "My Simple Tasks Manager")
 
 ---
 
