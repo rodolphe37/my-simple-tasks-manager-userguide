@@ -18,7 +18,7 @@
 
 ### :bookmark: This is the user guide for desktop & web (pwa) version.
 
->#### if you want to see the desktop version repository it's [here](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version)
+>#### if you want to see the Desktop version repository it's [here](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version)
 >
 >#### if you want to see the Web (pwa) version repository it's [here](https://github.com/rodolphe37/my-simple-tasks-manager-)
 
