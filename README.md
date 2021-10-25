@@ -1,11 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rodolphe37/my-simple-tasks-manager-/blob/main/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/rodolphe37/my-simple-tasks-manager-/graphs/commit-activity)
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://github.com/rodolphe37/my-simple-tasks-manager-)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![GitHub issues](https://badgen.net/github/issues/rodolphe37/my-simple-tasks-manager-/)](https://github.com/rodolphe37/my-simple-tasks-manager-/issues)
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rodolphe37/my-simple-tasks-manager-)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/rodolphe37/my-simple-tasks-manager-/main)
+<img   src="https://badges.aleen42.com/src/react.svg" alt="drawing" height="20" width="65"/>
 
 [![Website](https://i.imgur.com/xSu6S5v.png)](https://rodolphe-augusto.fr)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2a27fa4a-4979-4f11-81f5-17e680c3d5f8/deploy-status)](https://app.netlify.com/sites/wizardly-hoover-d92a3e/deploys)
@@ -15,6 +15,8 @@
 ---
 
 ## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="30" width="25"/>My Simple Task Manager_V2.2.0
+
+### :bookmark: This is the web (pwa) version, if you want to use the desktop version it's [here](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version)
 
 is a drag-and-drop task manager as well as a time tracker (not for a team, but for a single freelance developer for example)!
 
@@ -335,6 +337,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >The conversion of the Daily rate from Dollars to Euros is now done automatically according to the official exchange rate.
 
+
 ---
 
 ### New Version (05 oct 2021 - ^V_2.2.1)
@@ -346,7 +349,6 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ![alt text](demo/version2/currencyConverter.gif "My Simple Tasks Manager")
 
 ---
-
 
 ## END OF UPDATE Version
 ---
@@ -433,3 +435,61 @@ MIT
 
 ---
 
+## My other projects:
+
+>### My Simple Tutorial Creator
+>https://github.com/rodolphe37/my-simple-tutorial-creator
+
+>### My Simple Cam
+>https://github.com/rodolphe37/my-simple-cam-dektop-app
+
+>### My SimpleTasks Manager (software version for Linux, Mac & Windows)
+>https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version
+
+>### QRCode Tools
+>https://github.com/rodolphe37/qr-code-tools
+
+>### App for decrypt greenPass europe QRcode
+>https://github.com/rodolphe37/qrcode-decoder
+
+>### Css animation with Create React App base.
+>https://github.com/rodolphe37/halloween2021-bat-tuto-youtube-video
+
+>### My GitHub "open Sources" project
+>https://github.com/rodolphe37/pwa-react-project
+
+>### cra-template-github-my-profile
+>https://github.com/rodolphe37/cra-template-github-my-profile
+
+>### My Awesome Custom Alert
+>https://github.com/rodolphe37/my-awesome-custom-alert
+
+>### Geolocation starter app React-native
+>https://github.com/rodolphe37/react-native_geolocation-tracker
+
+>### Classic React Ultimate Messenger version repository (for open sources contributors)
+>https://github.com/rodolphe37/rum-open-sources
+
+>### React Ultimate Messenger template for React (create-react-app tools)
+>https://github.com/rodolphe37/cra-react-ultimate-messenger
+
+>### PWA React Ultimate Messenger template for React (create-react-app tools)
+>https://github.com/rodolphe37/cra-pwa-react-ultimate-messenger
+
+>### installation and initialization shell script for the PWA React Ultimate Messenger template
+>https://github.com/rodolphe37/pwa-rum-install-pack
+
+>### Upload-image-profil-component
+>https://github.com/rodolphe37/Upload-image-profil-component
+
+>### Jeux libres de droits "open Sources" - Memory Yoga Cards Game - Sort the Waste Game - Match 3 Yoga Game - Tetris Classic Game - Remake Earth Puzzle Game
+>https://github.com/rodolphe37/install-games-repository
+
+>### Administration template - React JS & react-admin
+>https://github.com/rodolphe37/nfc-updates-front
+
+
+>### Administration template Backend - Node & Express
+>https://github.com/rodolphe37/nfc-updates-back
+
+---
