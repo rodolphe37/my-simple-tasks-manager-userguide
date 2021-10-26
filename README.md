@@ -16,11 +16,7 @@
 
 ## <img  style =" float: left; margin-top: 5px; margin-right: 22px " src="demo/backlog.svg" alt="drawing" height="30" width="25"/>My Simple Task Manager_V2.2.0
 
-### :bookmark: This is the user guide for desktop & web (pwa) version.
-
->#### if you want to see the Desktop version repository it's [here](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version)
->
->#### if you want to see the Web (pwa) version repository it's [here](https://github.com/rodolphe37/my-simple-tasks-manager-)
+### :bookmark: This is the web (pwa) version, if you want to use the desktop version it's [here](https://github.com/rodolphe37/my-simple-tasks-manager-desktop-version)
 
 is a drag-and-drop task manager as well as a time tracker (not for a team, but for a single freelance developer for example)!
 
@@ -30,6 +26,59 @@ is a drag-and-drop task manager as well as a time tracker (not for a team, but f
 
 ![alt text](demo/demo.gif "My Simple Tasks Manager")
 
+## Quick Links
+
+[Online sites](#computer-online-sites)
+
+[Functionality](#Functionality)
+
+  - [Task card](#task-card)
+
+  - [Sticky Notes](#sticky-notes)
+
+  - [Time Tracker](#time-tracker)
+
+  - [Limit on simultaneous tasks](#limit-on-simultaneous-tasks)
+
+  - [Auto-detect end project](#auto-detect-end-project)
+
+  - [Dashboard](#dashboard)
+
+    - [Daily rate](#daily-rate)
+
+    - [Statistics](#statistics)
+
+    - [Export data](#export-data)
+
+      - [Pdf export](#pdf-export)
+
+      - [Png report screenshot](#png-report-screenshot)
+
+    - [Exchange Dollars-Euros](#exchange-dollars-euros)
+
+    - [Currency converter](#currency-converter)
+
+  - [Delete or reset](#delete-or-reset)
+
+  - [Real time counter](#real-time-counter)
+
+[For mobile devices](#for-mobile-devices)
+
+[LocalStorage persistence](#localstorage-persistence)
+
+[compatibility](#compatibility)
+
+[Author](#bust_in_silhouette-author)
+
+[A few words from the author](#large_blue_diamond-a-few-words-from-the-author)
+
+[Support the project](#sparkling_heart-support-the-project)
+
+[License](#scroll-license)
+
+[My other projects](#my-other-projects)
+
+---
 
 
 ## :computer: Online sites
@@ -52,12 +101,16 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 >Install on Mac OSX :heavy_check_mark:
 >
->![alt text](demo/install-mac-osx.png "My Simple Tasks Manager")
+>![alt text](demo/mac.gif "My Simple Tasks Manager")
+
+>Installed app on Windows :heavy_check_mark:
+>
+>![alt text](demo/windows.png "My Simple Tasks Manager")
 
 ---
-## UPDATE
+## Functionality
 
-### Version (18 sept 2021 - ^V_1.6.0)
+### Task card
 
 **:heavy_exclamation_mark: When you put the card on "In Progress" column**
 
@@ -89,6 +142,11 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ![alt text](demo/new-version/reinitHistory.gif "My Simple Tasks Manager")
 
 ---
+
+### Sticky Notes
+
+>You can create 4 sticky notes max.
+
 **:heavy_exclamation_mark: I also added a "Sticky Notes or Post It" section**
 
 >You can create up to 4 sticky notes in order to store all the information needed for the project and to access them at any time.!
@@ -97,8 +155,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
-
-### Version (19 sept 2021 - ^V_1.7)
+#### Time Tracker
 
 **:heavy_exclamation_mark: Time Tracker : Manual or automatic mode ?**
 
@@ -154,6 +211,10 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
+### Limit on simultaneous tasks
+
+>For better organisation, only one task can be in progress at a time.
+
 **:heavy_exclamation_mark: You can only do one task at a time**
 
 >If you drag more than one card into the "In Progress" column an alert informs you that it is not allowed and your card goes back to the box it came from automatically.
@@ -163,7 +224,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ---
 
 
-### New Version (25 sept 2021 - ^V_2.0.0)
+### Auto-detect end project
 
 **:heavy_exclamation_mark: Auto-detect end project : When all tasks are done !**
 
@@ -173,6 +234,8 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
+## Dashboard
+
 **:heavy_exclamation_mark: When you open your dashboard for the first time**
 
 >When you click on the icon, it stops oscillating and the dashboad opens. When you open the dashboad for the first time, a modal window appears asking you for your daily rate in order to calculate the statistics based on it.
@@ -180,7 +243,8 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ![alt text](demo/version2/firstDashboard.gif "My Simple Tasks Manager")
 
 ---
----
+
+### Daily rate
 
 **:heavy_exclamation_mark: Just under the header you have the daily rate management!**
 
@@ -213,6 +277,8 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ![alt text](demo/version2/newDailyRate.png "My Simple Tasks Manager")
 
 ---
+
+### Statistics
 
 **:heavy_exclamation_mark: let see the dashbord with some statistics on the work done!**
 
@@ -281,7 +347,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ---
 
 
-### New Version (26 sept 2021 - ^V_2.1.0)
+### Export data
 
  ***Warning - You must have entered a project name in the application to export the data.***
 > - The files are named "on the fly" with this value, so you won't have a file name if you haven't entered this value first!
@@ -291,6 +357,8 @@ You can easily install this application on a Windows, Mac or Linux computer.
  >- pdf export is not perfect for my taste (the layout of generated pdf more exactly), but they do work. I'm working on an improved version of the pdf export functionality right now... as soon as I get a great solution I'll update the application.
 
 ---
+
+#### Pdf export
 
 **:heavy_exclamation_mark: You can download the pdf report!**
 
@@ -302,6 +370,8 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ![alt text](demo/version2/pdf-export.gif "My Simple Tasks Manager")
 
 ---
+
+### Png report screenshot
 
 **:heavy_exclamation_mark: You can download the png report screenshot!**
 
@@ -335,7 +405,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ---
 
 
-### New Version (03 oct 2021 - ^V_2.2.0)
+### Exchange Dollars-Euros
 
 **:heavy_exclamation_mark: Dynamic real time Dollars/Euros exchange rate added! :dollar: / :euro:**
 
@@ -344,7 +414,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
-### New Version (05 oct 2021 - ^V_2.2.1)
+### Currency converter
 
 **:heavy_exclamation_mark: A currency converter has just been added.**
 
@@ -354,8 +424,7 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
-## END OF UPDATE Version
----
+### Delete or reset
 
 **:heavy_exclamation_mark: When you want to delete the Project name!**
 
@@ -373,6 +442,8 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
+### Real time counter
+
 **:heavy_exclamation_mark: When you Start the counter!**
 
 >The elapsed seconds are sent to the localstorage in real time, if you close the window inadvertently without stopping the counter, the elapsed time is automatically saved in the localStorage, adding to the time already present (seconds)!
@@ -381,9 +452,17 @@ You can easily install this application on a Windows, Mac or Linux computer.
 
 ---
 
+### For mobile devices
+
+>All mobile devices with a screen width of less than 500px are not compatible with this application
+
 **:x:** this application is  not responsive on mobile :mobile_phone_off: (as it is an application for people working in front of a computer - developer like me for example - I did not find useful to do media queries for that).
 
 ![alt text](demo/version2/mobileView.png "My Simple Tasks Manager")
+
+---
+
+### LocalStorage persistence
 
 ***(The demo is fully functional, all infos are stocked in localStorage)***
 
@@ -399,6 +478,9 @@ You can easily install this application on a Windows, Mac or Linux computer.
 ![alt text](demo/localStore.png "My Simple Tasks Manager")
 
 ---
+
+### compatibility
+
 Can I use Compatibility:
 
 ![alt text](demo/new-version/canIuse.png "My Simple Tasks Manager")
